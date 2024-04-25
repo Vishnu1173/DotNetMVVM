@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DotnetMVVM/1.0.0": {
+        "dependencies": {
+          "DotnetMVVM.Model": "1.0.0"
+        },
+        "runtime": {
+          "DotnetMVVM.dll": {}
+        }
+      },
+      "DotnetMVVM.Model/1.0.0": {
+        "dependencies": {
+          "DotnetMVVM.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "DotnetMVVM.Model.dll": {}
+        }
+      },
+      "DotnetMVVM.ViewModel/1.0.0": {
+        "runtime": {
+          "DotnetMVVM.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotnetMVVM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotnetMVVM.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotnetMVVM.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

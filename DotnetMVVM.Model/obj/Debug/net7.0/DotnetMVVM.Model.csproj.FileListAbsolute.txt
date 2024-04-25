@@ -1,0 +1,15 @@
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\bin\Debug\net7.0\DotnetMVVM.Model.deps.json
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\bin\Debug\net7.0\DotnetMVVM.Model.dll
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\bin\Debug\net7.0\DotnetMVVM.Model.pdb
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\bin\Debug\net7.0\DotnetMVVM.ViewModel.dll
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\bin\Debug\net7.0\DotnetMVVM.ViewModel.pdb
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\DotnetMVVM.Model.csproj.AssemblyReference.cache
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\DotnetMVVM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\DotnetMVVM.Model.AssemblyInfoInputs.cache
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\DotnetMVVM.Model.AssemblyInfo.cs
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\DotnetMVVM.Model.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\DotnetMVVM.Model.csproj.CopyComplete
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\DotnetMVVM.Model.dll
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\refint\DotnetMVVM.Model.dll
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\DotnetMVVM.Model.pdb
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.Model\obj\Debug\net7.0\ref\DotnetMVVM.Model.dll

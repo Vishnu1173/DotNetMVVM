@@ -1,0 +1,11 @@
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\bin\Debug\net7.0\DotnetMVVM.ViewModel.deps.json
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\bin\Debug\net7.0\DotnetMVVM.ViewModel.dll
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\bin\Debug\net7.0\DotnetMVVM.ViewModel.pdb
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\obj\Debug\net7.0\DotnetMVVM.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\obj\Debug\net7.0\DotnetMVVM.ViewModel.AssemblyInfoInputs.cache
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\obj\Debug\net7.0\DotnetMVVM.ViewModel.AssemblyInfo.cs
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\obj\Debug\net7.0\DotnetMVVM.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\obj\Debug\net7.0\DotnetMVVM.ViewModel.dll
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\obj\Debug\net7.0\refint\DotnetMVVM.ViewModel.dll
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\obj\Debug\net7.0\DotnetMVVM.ViewModel.pdb
+C:\Users\vijay\source\repos\DotnetMVVM\DotnetMVVM.ViewModel\obj\Debug\net7.0\ref\DotnetMVVM.ViewModel.dll
